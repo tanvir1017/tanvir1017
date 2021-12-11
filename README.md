@@ -2,7 +2,9 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23640505&size=30&center=false&vCenter=false&lines=Hi+There!;I+am+Tanvir+Hossain;I+am+a+Front-end+Developer+%26;I+am+a+MERN+Stack+Developer+)](https://git.io/typing-svg)
 
-#### I am Front-End Developer || MERN Stack Developer
+#### Profile Visitor
+
+![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
 the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
@@ -45,8 +47,6 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tanvir1017&theme=xcode)](https://github.com/tanvir1017/github-readme-activity-graph)
 
 <!-- contributes -->
-
-![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
 <!-- all activity -->
 
