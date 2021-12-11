@@ -1,4 +1,7 @@
 ![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
 ### Hi there 👋, Tanvir Hossain
 
