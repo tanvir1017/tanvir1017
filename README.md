@@ -1,7 +1,4 @@
 ![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
-</h1>
 
 ### Hi there 👋, Tanvir Hossain
 
@@ -40,8 +37,10 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## Summaries of my skills
 
-![Tanvir Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true&theme=radical)]
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvir1017&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)]
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
+![Tanvir Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true&theme=radical)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvir1017&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 
 <!-- contributes -->
 
@@ -53,4 +52,6 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- activity graph -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvir1017)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
