@@ -1,4 +1,4 @@
-**![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
+![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
 
 ### Hi there 👋, Tanvir Hossain
 
@@ -35,17 +35,18 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- languages that i used -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1017)](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir1017)![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true)
+## Summaries of my skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1017)](https://github.com/anuraghazra/github-readme-stats)[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir1017)![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true)
 
 <!-- contributes -->
 
 ![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
-<!-- activity graph -->
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvir1017)
-
 <!-- all activity -->
 
 ![GitHub metrics](https://metrics.lecoq.io/tanvir1017)
-**
+
+<!-- activity graph -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvir1017)
