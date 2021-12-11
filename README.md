@@ -8,6 +8,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 🌱 I’m currently learning Javascript, React, MERN Stack.
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: tanvir.hossaindev1@gmail.com
+- ![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
 ## Feel free to visit my world
 
@@ -44,7 +45,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- contributes -->
 
-![Profile views](https://gpvc.arturio.dev/tanvir1017)
+
 
 <!-- all activity -->
 
