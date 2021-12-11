@@ -13,14 +13,21 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## Learned till Now
 
-<img src='https://i.ibb.co/6WNB3Vs/3.png' alt='github' height='40'>
-<img src='https://i.ibb.co/BgNgFK1/6.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/4.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/5.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/7.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/8.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/9.png' alt='github' height='40'>
-<img src='https://i.ibb.co/6WNB3Vs/10.png' alt='github' height='40'>
+[<img src='https://i.ibb.co/6WNB3Vs/3.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/BgNgFK1/6.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/NyL9Hjw/4.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/sbsn12R/16.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/0jFpNdg/1.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/tDp5pzD/15.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/kXrDs96/2.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/BG769zF/14.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/Cb1WhGP/5.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/54X6GyJ/9.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/4FSwqxj/12.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/GpBP2fY/11.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/F4Lq49F/7.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+[<img src='https://i.ibb.co/r40BgZP/13.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
 
 ## social links
 
