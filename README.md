@@ -1,4 +1,4 @@
-![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
+**![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
 
 ### Hi there 👋, Tanvir Hossain
 
@@ -48,3 +48,4 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 <!-- all activity -->
 
 ![GitHub metrics](https://metrics.lecoq.io/tanvir1017)
+**
