@@ -51,3 +51,5 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 ![GitHub metrics](https://metrics.lecoq.io/tanvir1017)
 
 <!-- activity graph -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
