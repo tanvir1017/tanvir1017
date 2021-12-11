@@ -1,6 +1,6 @@
 ![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
 
-### Hi there 👋, Tanvir Hossain
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23640505&size=30&center=true&vCenter=true&lines=Hi+There!;I+am+Tanvir+Hossain;I+am+a+Front-end+Developer+%26;I+am+a+MERN+Stack+Developer+)](https://git.io/typing-svg)
 
 #### I am Front-End Developer || MERN Stack Developer
 
