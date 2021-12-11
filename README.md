@@ -37,7 +37,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## Summaries of my skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1017)](https://github.com/anuraghazra/github-readme-stats)[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir1017)![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1017)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvir1017)
 
 <!-- contributes -->
 
