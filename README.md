@@ -1,6 +1,8 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![I am Front-End Developer || MERN Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGztgQwmcDOFQ/profile-displaybackgroundimage-shrink_350_1400/0/1638082781550?e=1644451200&v=beta&t=v9e4nqq94YtlkDFB6kHWuTxWZGKpYSZ4XSzLQmNBcsQ)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23640505&size=30&center=false&vCenter=false&lines=Hi+There!;I+am+Tanvir+Hossain;I+am+a+Front-end+Developer+%26;I+am+a+MERN+Stack+Developer+)](https://git.io/typing-svg)
+
+#### I am Front-End Developer || MERN Stack Developer
 
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
 the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
@@ -8,7 +10,6 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 🌱 I’m currently learning Javascript, React, MERN Stack.
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: tanvir.hossaindev1@gmail.com
-- ![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
 ## Feel free to visit my world
 
@@ -45,7 +46,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- contributes -->
 
-
+![Profile views](https://gpvc.arturio.dev/tanvir1017)
 
 <!-- all activity -->
 
