@@ -44,6 +44,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir1017&theme=onedark&langs_count=8)](https://github.com/tanvir1017/github-readme-stats)
 ![Tanvir Hossain GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvir1017&show_icons=true&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvir1017&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=tanvir1017&theme=xcode)](https://github.com/tanvir1017/github-readme-activity-graph)
 
 <!-- contributes -->
 
