@@ -13,14 +13,14 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## Learned till Now
 
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
-[<img src='https://i.ibb.co/jrVNhrt/8.png' alt='github' height='40'>](https://i.ibb.co/jrVNhrt/8.png)
+<img src='https://i.ibb.co/6WNB3Vs/3.png' alt='github' height='40'>
+<img src='https://i.ibb.co/BgNgFK1/6.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/4.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/5.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/7.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/8.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/9.png' alt='github' height='40'>
+<img src='https://i.ibb.co/6WNB3Vs/10.png' alt='github' height='40'>
 
 ## social links
 
