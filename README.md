@@ -56,4 +56,4 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 <!-- repo card -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvir1017&theme=radical&repo=github-readme-stats)](https://github.com/tanvir1017/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanvir1017&repo=github-readme-stats&theme=radical)](https://github.com/tanvir1017/github-readme-stats)
