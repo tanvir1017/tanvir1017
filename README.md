@@ -22,7 +22,6 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## Connect with me
 
-#
 
 <p align="left">
 <a href="https://fb.com/tanvir1017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir1017" height="30" width="40" /></a>
