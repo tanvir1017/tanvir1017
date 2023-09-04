@@ -8,7 +8,7 @@
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
 the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
 
-- 🔭 I’m currently working on [Academy.py](https://academy-py.vercel.app/), [Miazi-farm]([https://nur-it-institute.web.app/](http://miazi-farm.vercel.app/))
+- 🔭 I’m currently working on [Academy.py](https://academy-py.vercel.app/), [Miazi-farm](https://miazi-farm.vercel.app)
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://tanvirhossain.vercel.app/)
 
