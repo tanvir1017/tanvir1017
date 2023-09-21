@@ -1,7 +1,6 @@
 #### Profile Visitor
 
 ![Profile views](https://gpvc.arturio.dev/tanvir1017)
-<img src='https://i.ibb.co/jyTMRYx/FBpng.png' width="100%" alt='github'>
 
 ### Hello There, I am Tanvir Hossain.
 
