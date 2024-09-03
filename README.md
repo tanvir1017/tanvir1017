@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <b>Hi There! Gorgeous People, Greetings 💁‍♂️</b>
+        <b>Grüße (Greetings)! gorgeous people on the internet💁‍♂️</b>
     </h1>
 </div>
 <br/>
