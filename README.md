@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Lives-Dhaka, Bangladesh-purple" />
 <img src="https://img.shields.io/badge/Raised in- Comilla, Chittagong-pink" />
 <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-blue" />
-<img src="https://img.shields.io/badge/Focus-Frontend Development-toamto" /></div>
+<img src="https://img.shields.io/badge/Focus-FullStack Development-toamto" /></div>
 
 <br />
 
