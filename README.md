@@ -9,7 +9,7 @@
 ### 🧭 About Me
 I'm a passionate software developer who loves crafting fast, clean, and accessible softweres.  
 I believe code should not only work — it should *delight*.  
----
+
 
 ### 🧰 Tech Stack
 
